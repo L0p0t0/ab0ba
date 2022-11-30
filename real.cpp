@@ -53,7 +53,7 @@ string itc_reverse_str(string str) {
 }
 
 string itc_slice_str(string str, int start, int end) {
-    return str.substr(start, end-start+1);
+    return 0;
 }
 
 bool itc_equal_reverse(string str) {
