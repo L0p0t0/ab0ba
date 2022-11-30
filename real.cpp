@@ -53,7 +53,7 @@ string itc_reverse_str(string str) {
 }
 
 string itc_slice_str(string str, int start, int end) {
-    return 0;
+    return "";
 }
 
 bool itc_equal_reverse(string str) {
@@ -79,7 +79,7 @@ int itc_find_str(string str1, string str2) {
 }
 
 string itc_three_str(string str1, string str2, string str3) {
-    return 0;
+    return "";
 }
 
 int itc_max_char_on_end(string str) {
